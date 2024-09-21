@@ -1,0 +1,1 @@
+This project is a simple web application that allows users to register by submitting their names and addresses. Built with Node.js and Express, the application uses MongoDB to store user data in a structured manner, leveraging a one-to-many relationship between users and their addresses.
